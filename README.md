@@ -9,3 +9,4 @@ Here are some pictures of the deployed site.
 ![Screenshot1](Screenshot1.png) ![Screenshot2](Screenshot2.png) ![Screenshot3](Screenshot3.png)
 
 Here is a link to the website:
+https://betzaida96.github.io/Horiseon/
