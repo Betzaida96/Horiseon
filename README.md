@@ -6,10 +6,6 @@ The way this website works is simple. At the top you find a navigation bar, you 
 
 Here are some pictures of the deployed site.
 
-![screenshot1](Screenshot1.png)
-
-![screenshot2](Screenshot2.png)
-
-![screenshot3](Screenshot3.png)
+![Screenshot1](Screenshot1.png) ![Screenshot2](Screenshot2.png) ![Screenshot3](Screenshot3.png)
 
 Here is a link to the website:
